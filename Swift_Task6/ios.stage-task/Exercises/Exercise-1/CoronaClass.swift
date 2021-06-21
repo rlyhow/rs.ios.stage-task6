@@ -5,9 +5,6 @@ class CoronaClass {
     var seats = [Int]()
     var countOfSeats = 0
     
-    var maxi = 0
-    var maxi2 = 0
-    
     init(n: Int) {
         countOfSeats = n
     }
